@@ -29,6 +29,7 @@
     }
 
     &__imagen{
+        cursor: pointer;
         transition: transform 300ms ease-in;
         &:hover{
             transform: rotate(-4deg) scale(1.2);
